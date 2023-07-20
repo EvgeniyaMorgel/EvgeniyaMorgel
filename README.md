@@ -1,10 +1,24 @@
-Привет! меня зовут Евгения Моргель и я начинающий аналитик данных. Имею высшее техническое образование, сейчас прохожу крусы переподготовки в сфере IT. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения
+Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Евгения
+===============================================================================================================================
+
+Аналитик данных
+--------------
+
+Я начинающий аналитик данных. Мой путь начался с курса "Аналитик данных" в Томском государственном университете. В настоящее время обучаюсь также по направления Аналитик данных в Skypro.
+
+* 🌍 Я живу в России, г. Новосибирск
+* ✉️ Вы можете связаться со мной по адресу [evgeniya.morgel@mail.ru](mailto:evgeniya.morgel@mail.ru)
+
+### Skills
 
 
-Навыки и технологии
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
-Инструменты анализа данных: SQL, Excel
 
-Языки программирования и библиотеки: Python, Pandas, math
+### Socials
 
-Системы управления базами данных: MySQL, PostgreSQL
+<p align="left"> <a href="https://www.github.com/EvgeniyaMorgel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
