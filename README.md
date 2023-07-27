@@ -29,5 +29,6 @@
 <p>
 <p> > <a href="https://github.com/EvgeniyaMorgel/Project_1">Моделирование изменения балансов студентов при помощи SQL</a> <p>
 <p> > <a href="https://github.com/EvgeniyaMorgel/Project_2">Построение витрины для модели машинного обучения в банке при поммощи SQL</a> <p>
+<p> > <a href="https://github.com/EvgeniyaMorgel/Project_3">Калькулятор юнит-экономики онлайн-кинотеатра</a> <p>
 
 
